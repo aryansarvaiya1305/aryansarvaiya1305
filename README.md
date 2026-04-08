@@ -11,7 +11,7 @@
 ## 🧾 About Me
 
 * 🎓 Completed Bachelor's degree in Cloud Computing
-* ☁️ Passionate about **Cloud & DevOps**
+* ☁️ Passionate about **Cloud Engineer & DevOps**
 * 🛠️ Skilled in **AWS, Docker, CI/CD, Linux**
 * 🚀 Building real-world DevOps projects
 * 🎯 Goal: Become a **DevOps / Cloud Engineer**
