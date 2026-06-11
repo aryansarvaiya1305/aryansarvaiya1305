@@ -5,7 +5,7 @@
 
 <!-- ───────────────────── ANIMATED WAVE HEADER ───────────────────── -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aryan%20Sarvaiya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20DevOps%20Enthusiast%20%7C%20AWS%20Learner%20%7C%20MCA%20%40%20PES%20University&descAlignY=58&descSize=16&descColor=a0c4ff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aryan%20Sarvaiya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20DevOps%20Enthusiast%20%7C%20AWS%20Learner%20%7C%20&descAlignY=58&descSize=16&descColor=a0c4ff" width="100%"/>
 </div>
 
 <!-- ───────────────────── TYPING ANIMATION ───────────────────── -->
