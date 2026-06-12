@@ -46,7 +46,6 @@ Learning    : AWS · Docker · Kubernetes · Terraform · CI/CD
 Building    : Real-world cloud & automation projects
 Interests   : Open Source · Infrastructure as Code · Site Reliability
 Status      : Open to Internships & Collaborations
-Location    : Bangalore, India 🇮🇳
 ```
 
 <div align="center">
