@@ -101,53 +101,6 @@ Status      : Open to Internships & Collaborations
 ---
 
 
-<!-- ───────────────────── FEATURED PROJECTS ───────────────────── -->
-<div align="center">
-  <h2>🚀 Featured Projects</h2>
-</div>
-
-<div align="center">
-<table width="90%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">☁️ CloudLab</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Status-Active-00D4FF?style=flat-square&labelColor=0D1117"/>
-        <img src="https://img.shields.io/badge/Stack-AWS%20%7C%20Terraform%20%7C%20Docker-7B2FBE?style=flat-square&labelColor=0D1117"/>
-      </div>
-      <p align="center">
-        A personal cloud lab environment for experimenting with AWS services, infrastructure provisioning with Terraform, and containerized workloads — bridging theory with hands-on practice.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛩️ InfraPilot</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Status-Building-FF9900?style=flat-square&labelColor=0D1117"/>
-        <img src="https://img.shields.io/badge/Stack-Terraform%20%7C%20Ansible%20%7C%20CI%2FCD-0db7ed?style=flat-square&labelColor=0D1117"/>
-      </div>
-      <p align="center">
-        Infrastructure automation pilot — automated provisioning and configuration management using IaC principles. Focuses on repeatable, version-controlled infrastructure deployments.
-      </p>
-    </td>
-  </tr>
-  </tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧪 AWS Learning Labs</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Status-Ongoing-2ea44f?style=flat-square&labelColor=0D1117"/>
-        <img src="https://img.shields.io/badge/Stack-AWS%20EC2%20%7C%20S3%20%7C%20Lambda%20%7C%20VPC-FF9900?style=flat-square&labelColor=0D1117"/>
-      </div>
-      <p align="center">
-        Structured labs and exercises aligned with the AWS Solutions Architect path — covering compute, storage, networking, serverless, and security services.
-      </p>
-    </td>
-  </tr>
-</table>
-</div>
-
-<br/>
-
----
 
 <!-- ───────────────────── GITHUB STATS ───────────────────── -->
 <div align="center">
